@@ -21,4 +21,6 @@ Both the text and image embeddings are then compared to find how similar they ar
 ![Clothing Example](boots.png)
 ## Example 2:
 ![Clothing Example](hoodies.png)
+## Example 3:
+![Clothing Example](sweeter.png)
 
