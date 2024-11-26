@@ -16,3 +16,7 @@ Additionally, I utilized the Gemini API to generate mimicking queries from the p
 CLIP (Contrastive Language-Image Pretraining) is used in this project to connect user queries with clothing images from store. When a customer submits a query like "blue summer dress," CLIP converts that text into an embedding, a high-dimensional representation that captures the meaning of the query. It does the same for the images of clothing items from the store.
 
 Both the text and image embeddings are then compared to find how similar they are. The higher the similarity between the query and an image, the more relevant that clothing item is to the user’s request. This way, CLIP helps the system recommend clothing items that match both visually and contextually with what the user is looking for, providing more accurate and relevant suggestions.
+
+## Example 1:
+![Clothing Example](boots.png)
+
